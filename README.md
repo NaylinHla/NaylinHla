@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi there! I'm a Computer Science student from Esbjerg, Denmark, passionate about software development and aiming to become a skilled back-end developer.<br>💻 I work with technologies like C#, ASP.NET, React, TypeScript, Docker, and PostgreSQL.<br>📚 Currently learning and growing through projects, internships, and my studies in the Datamatiker program.<br>🏋️‍♂️ In my free time, I enjoy strength training and diving into self-improvement books.<br>🚀 Always curious, always building — let's connect and collaborate!
+👋 Hi there! 
+I'm a Computer Science student from Esbjerg, Denmark, passionate about software development and aiming to become a skilled back-end developer.<br>💻 I work with technologies like C#, ASP.NET, React, TypeScript, Docker, and PostgreSQL.<br>📚 Currently learning and growing through projects, internships, and my studies in the Datamatiker program.<br>🏋️‍♂️ In my free time, I enjoy strength training and diving into self-improvement books.<br>🚀 Always curious, always building — let's connect and collaborate!
 
 
 ## 🌐 Socials:

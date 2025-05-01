@@ -40,6 +40,10 @@ I'm a Computer Science student from Esbjerg, Denmark, passionate about software 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-# Important Quote:
+#
 
 <h2 align="center"><i>“The impediment to action advances action, what stands in the way becomes the way.”</i><br>– Marcus Aurelius</h2>
+<br>
+<p align="center">
+  <img src="https://github.com/naylinhla/naylinhla/blob/main/Mountain-Me.png?raw=true" width="300" alt="Mountain Climb GIF" />
+</p>

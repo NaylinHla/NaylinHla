@@ -1,15 +1,6 @@
 # 💫 About Me:
 I'm a Computer Science student from Esbjerg, Denmark, passionate about software development and aiming to become a skilled back-end developer. <br><br>💻 I work with technologies like C#, ASP.NET, React, TypeScript, Docker, and PostgreSQL.<br>📚 Currently learning and growing through projects, internships, and my studies in the Computer Science program.<br>🏋️‍♂️ In my free time, I enjoy strength training, watching horror movies and going out with my friends.<br>🚀 Always curious, always building — let's connect and collaborate!<br>
 
-![](https://komarev.com/ghpvc/?username=naylinhla&color=blue)
-
-
-
-# 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naylinoohla@gmail.com)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naylin_hla)
-
-# 💻 Tech Stack:
-
 ### ✅ Primary:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![ASP.NET](https://img.shields.io/badge/asp.net-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white) 

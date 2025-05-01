@@ -1,8 +1,11 @@
 # 💫 About Me:
 I'm a Computer Science student from Esbjerg, Denmark, passionate about software development and aiming to become a skilled back-end developer. <br><br>💻 I work with technologies like C#, ASP.NET, React, TypeScript, Docker, and PostgreSQL.<br>📚 Currently learning and growing through projects, internships, and my studies in the Computer Science program.<br>🏋️‍♂️ In my free time, I enjoy strength training, watching horror movies and going out with my friends.<br>🚀 Always curious, always building — let's connect and collaborate!<br>
 
+![](https://komarev.com/ghpvc/?username=naylinhla&color=blue)
 
-## 🌐 Socials:
+
+
+# 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naylinoohla@gmail.com)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naylin_hla)
 
 # 💻 Tech Stack:
@@ -36,3 +39,7 @@ I'm a Computer Science student from Esbjerg, Denmark, passionate about software 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+# Important Quote:
+
+<h2 align="center"><i>“The impediment to action advances action, what stands in the way becomes the way.”</i><br>– Marcus Aurelius</h2>

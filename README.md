@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm a passionate about software development and aiming to become a cracked backend developer. <br><br>💻 I work with technologies like C#, ASP.NET, React, TypeScript, Docker, and PostgreSQL.<br>📚 Currently learning and growing through projects, internships, and my studies in the Computer Science program.<br>🏋️‍♂️ In my free time, I do competitive olympic weightlifting, watch horror movies and go out with my friends.<br>🚀 Always curious, always building — let's connect and collaborate!<br>
+I'm a passionate about software development and aiming to become a cracked backend developer. <br><br>
+💻 I work with technologies like C#, ASP.NET, React, TypeScript, Docker, and PostgreSQL.<br>
+📚 Currently learning and growing through projects, internships, and my studies.<br>
+🏋️‍♂️ In my free time, I do competitive olympic weightlifting, watch horror movies and go out with my friends.<br>
+🚀 Always curious, always building — let's connect and collaborate!<br>
 
 ### ✅ Primary:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 

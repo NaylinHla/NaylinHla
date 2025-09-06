@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Science student from Esbjerg, Denmark, passionate about software development and aiming to become a skilled back-end developer. <br><br>💻 I work with technologies like C#, ASP.NET, React, TypeScript, Docker, and PostgreSQL.<br>📚 Currently learning and growing through projects, internships, and my studies in the Computer Science program.<br>🏋️‍♂️ In my free time, I enjoy strength training, watching horror movies and going out with my friends.<br>🚀 Always curious, always building — let's connect and collaborate!<br>
+I'm a passionate about software development and aiming to become a cracked backend developer. <br><br>💻 I work with technologies like C#, ASP.NET, React, TypeScript, Docker, and PostgreSQL.<br>📚 Currently learning and growing through projects, internships, and my studies in the Computer Science program.<br>🏋️‍♂️ In my free time, I do competitive olympic weightlifting, watch horror movies and go out with my friends.<br>🚀 Always curious, always building — let's connect and collaborate!<br>
 
 ### ✅ Primary:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
@@ -22,16 +22,7 @@ I'm a Computer Science student from Esbjerg, Denmark, passionate about software 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) 
-![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
-#
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 <h2 align="center"><i>“The impediment to action advances action, what stands in the way becomes the way.”</i><br>– Marcus Aurelius</h2>
 <br>

@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm passionate about software development and aiming to become a world-class backend developer. <br><br>
-💻 Experienced in backend development, database design, and infrastructure, with additional knowledge in intuitive UI/UX.<br>
+I’m passionate about software development and driven to become a world-class backend developer. <br><br>
+💻 Experienced in backend development, database design, infrastructure and quality assurance with additional knowledge in intuitive UI/UX.<br>
 📚 Currently learning and growing through projects, internships, and my studies.<br>
 🏋️‍♂️ In my free time, I do competitive olympic weightlifting, watch horror movies and go out with my friends.<br>
 🚀 Always curious, always building — let's connect and collaborate!<br>

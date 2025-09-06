@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm a passionate about software development and aiming to become a cracked backend developer. <br><br>
-💻 I work with technologies like C#, ASP.NET, React, TypeScript, Docker, and PostgreSQL.<br>
+I'm a passionate about software development and aiming to become a world-class backend developer. <br><br>
+💻 Experienced in backend development, database design, and infrastructure, with additional knowledge in intuitive UI/UX.<br>
 📚 Currently learning and growing through projects, internships, and my studies.<br>
 🏋️‍♂️ In my free time, I do competitive olympic weightlifting, watch horror movies and go out with my friends.<br>
 🚀 Always curious, always building — let's connect and collaborate!<br>
